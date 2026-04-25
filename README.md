@@ -52,6 +52,11 @@ Client
 - maps → available maps  
 
 ---
+### ER Diagram:
+<img width="1280" height="853" alt="WhatsApp Image 2026-04-23 at 10 02 28" src="https://github.com/user-attachments/assets/983c7ae8-f1b9-447e-a4ed-ce3b36c91d0b" />
+
+---
+
 
 ## How It Works
 
@@ -114,7 +119,7 @@ Updates:
 
 ### 1. Clone Repo
 
-git clone https://github.com/ankurrajpat/ares-matchmaking.git
+git clone https://github.com/your-username/ares-matchmaking.git
 cd ares-matchmaking
 
 ### 2. Install Dependencies
